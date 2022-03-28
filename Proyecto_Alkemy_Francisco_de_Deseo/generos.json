@@ -1,0 +1,29 @@
+[
+    {
+      "id": 0,
+      "nombre": "Aventura",
+      "imagen": "Aventura.jpg",
+      "peliculas": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": 1,
+      "nombre": "Musical",
+      "imagen": "Musical.jpg",
+      "peliculas": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Comedia",
+      "imagen": "Comedia.jpg",
+      "peliculas": [
+        1,
+        3
+      ]
+    }
+]

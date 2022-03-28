@@ -1,0 +1,61 @@
+[
+  {
+    "id": 0,
+    "imagen": "imagenMickey.png",
+    "nombre": "Mickey Mouse",
+    "edad": 30,
+    "peso": 25,
+    "historia": "Es un raton dispuesto a hacer lo correcto dada la situación.",
+    "peliculas": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 1,
+    "imagen": "imagenDonald.jpg",
+    "nombre": "Donald",
+    "edad": 40,
+    "peso": 40,
+    "historia": "Es un pato que se enoja con facilidad",
+    "peliculas": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "imagen": "imagenMinnie.jpg",
+    "nombre": "Minnie",
+    "edad": 30,
+    "peso": 25,
+    "historia": "Es un raton enamorada de Mickey",
+    "peliculas": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "imagen": "imagenGoofy.jpg",
+    "nombre": "Goofy",
+    "edad": 45,
+    "peso": 50,
+    "historia": "Es un perro con mucho carisma",
+    "peliculas": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "imagen": "\"Pluto.png\"",
+    "nombre": "Pluto",
+    "edad": 0,
+    "peso": 0,
+    "historia": "",
+    "peliculas": [
+      3
+    ]
+  }
+]

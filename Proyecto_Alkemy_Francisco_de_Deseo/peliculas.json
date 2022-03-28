@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "imagen": "imagenSaludosAmigos.jpg",
+    "titulo": "Saludos Amigos",
+    "fechaDeCreacion": 1943,
+    "calificacion": 5,
+    "personajes": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "imagen": "imagenChefDonald.jpg",
+    "titulo": "Chef Donald",
+    "fechaDeCreacion": 1941,
+    "calificacion": 4,
+    "personajes": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "imagen": "imagenFantasia.jpg",
+    "titulo": "Fantasía",
+    "fechaDeCreacion": 1940,
+    "calificacion": 5,
+    "personajes": [
+      0
+    ]
+  },
+  {
+    "id": 3,
+    "imagen": "imagenTresMosqueteros.jpg",
+    "titulo": "Los Tres Mosqueteros",
+    "fechaDeCreacion": 2004,
+    "calificacion": 2,
+    "personajes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]
